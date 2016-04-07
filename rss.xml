@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[LeddinTheWay]]></title>
+        <description><![CDATA[LeddinTheWay]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 07 Apr 2016 22:44:45 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Jameson - Connecting Their Brand With Their Consumers.]]></title>
+            <description><![CDATA[<article><h1>Jameson - Connecting Their Brand With Their Consumers.</h1><p>Working for An Púcán has opened so many doors for myself and others over the past two years its been an amazing opportunity and adventure. </p></article>]]></description>
+            <link>undefinedjameson-connecting-their-brand-with-their-consumers/index.html</link>
+            <guid isPermaLink="false">c1621c3d-7e5e-4b2c-aa18-34561188dc65</guid>
+            <pubDate>Thu, 07 Apr 2016 22:44:24 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
